@@ -1,0 +1,13 @@
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.csprojAssemblyReference.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.exe
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.deps.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.runtimeconfig.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.runtimeconfig.dev.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.genruntimeconfig.cache

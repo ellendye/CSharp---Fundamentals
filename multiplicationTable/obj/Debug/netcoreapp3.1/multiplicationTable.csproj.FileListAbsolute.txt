@@ -1,0 +1,13 @@
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.exe
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.deps.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.runtimeconfig.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.runtimeconfig.dev.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.csprojAssemblyReference.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\bin\Debug\netcoreapp3.1\human.exe
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\bin\Debug\netcoreapp3.1\human.deps.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\bin\Debug\netcoreapp3.1\human.runtimeconfig.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\bin\Debug\netcoreapp3.1\human.runtimeconfig.dev.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\bin\Debug\netcoreapp3.1\human.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\bin\Debug\netcoreapp3.1\human.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\obj\Debug\netcoreapp3.1\human.csprojAssemblyReference.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\obj\Debug\netcoreapp3.1\human.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\obj\Debug\netcoreapp3.1\human.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\obj\Debug\netcoreapp3.1\human.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\obj\Debug\netcoreapp3.1\human.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\obj\Debug\netcoreapp3.1\human.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\human\obj\Debug\netcoreapp3.1\human.genruntimeconfig.cache

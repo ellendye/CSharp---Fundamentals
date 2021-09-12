@@ -1,0 +1,13 @@
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\ellen\OneDrive\Coding Dojo\CSharp\Fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.genruntimeconfig.cache
